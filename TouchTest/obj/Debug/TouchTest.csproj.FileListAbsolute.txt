@@ -1,0 +1,16 @@
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\bin\Debug\TouchTest.exe.config
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\bin\Debug\TouchTest.exe
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\bin\Debug\TouchTest.pdb
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\MainWindow.g.cs
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\App.g.cs
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest_MarkupCompile.cache
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest_MarkupCompile.lref
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\MainWindow.baml
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest.g.resources
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest.Properties.Resources.resources
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest.csproj.CoreCompileInputs.cache
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest.exe
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\obj\Debug\TouchTest.pdb
+c:\users\justin\documents\visual studio 2017\Projects\TouchTest\TouchTest\bin\Debug\NAudio.dll
